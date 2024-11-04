@@ -151,6 +151,24 @@ onclick("#search",function(element,event){
 	main()
 })
 
+onkeydown(document,function(element,event){
+	if(element.tagName!="INPUT"){
+		if(event.shiftKey&&event.key==" "){
+			click("#prev")
+			return
+		}else if(event.key==" "){
+			click("#next")
+			return
+		}else if(event.key=="Enter"){
+			click("#submit")
+			return
+		}else if(["1","2","3","4"].includes(event.key)){
+			domgetall("input[name=option]")[int(event.key)-1].checked=true
+			return
+		}
+	}
+})
+
 onenterclick("#no",function(){
 	click("#search")
 })
