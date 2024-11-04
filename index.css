@@ -12719,3 +12719,7 @@ html[data-background="secondary"],html[data-background="secondary"] body{
 .optiondiv{
 	margin: 10px 0px;
 }
+
+.text-nowrap{
+	white-space: nowrap;
+}

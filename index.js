@@ -114,3 +114,12 @@ onclick("#next",function(element,event){
 	no=no+1
 	main()
 })
+
+onclick("#search",function(element,event){
+	no=int(getvalue("no"))
+	main()
+})
+
+onenterclick("#no",function(){
+	click("#search")
+})
