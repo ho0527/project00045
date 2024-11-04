@@ -714,7 +714,7 @@ let question=[
 	},{
 		"question": "機器人啟動後的運轉試驗中部幫況哪一項? [題本p12-90]",
 		"questionimage": null,
-		"option": ["各軸如預定地移動並受限制","教導器回放(Playback)功能正常運作","緊急停止功能可發揮功能","應用適當的安全防護方式"],
+		"option": ["各軸如預定地移動並受限制","教導器回放(Playback)功能正常運作","緊急停止功能可發揮功能","+"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
