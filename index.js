@@ -72,6 +72,8 @@ function main(){
 		}
 	`,false)
 
+	value("#no",no,false)
+
 	innerhtml("#answer",``,false)
 }
 
@@ -110,9 +112,36 @@ onclick("#submit",function(element,event){
 	}
 })
 
+onclick("#prev",function(element,event){
+	if(0<no){
+		no=no-1
+		main()
+	}else{
+		value("#prev",`
+			糙 還點 已經是第一題了
+		`,false)
+		setTimeout(function(){
+			value("#prev",`
+				上一題
+			`,false)
+		},1500)
+	}
+})
+
 onclick("#next",function(element,event){
-	no=no+1
-	main()
+	if(no<tempquestion.length-1){
+		no=no+1
+		main()
+	}else{
+		value("#next",`
+			糙 還點 已經是最後一題了
+		`,false)
+		setTimeout(function(){
+			value("#next",`
+				下一題
+			`,false)
+		},1500)
+	}
 })
 
 onclick("#search",function(element,event){
