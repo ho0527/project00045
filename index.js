@@ -63,6 +63,7 @@ function main(){
 				}
 			</div>
 		</label>
+		${tempquestion[no]["optionend"]}
 		${
 			tempquestion[no]["ps"]!=""?`
 				<i>
