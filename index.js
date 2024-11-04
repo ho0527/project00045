@@ -8,7 +8,8 @@ function main(){
 		${tempquestion[no]["question"]}
 		${
 			tempquestion[no]["questionimage"]!=null?`
-				<img src="${tempquestion[i]["questionimage"].split("image_")[1]}" alt="question image">
+				<br>
+				<img src="${tempquestion[no]["questionimage"].split("image_")[1]}">
 			`:``
 		}
 	`,false)
@@ -19,7 +20,7 @@ function main(){
 			<div class="fill">
 				${
 					tempquestion[no]["option"][0].split("image_")[1]?`
-						<img src="${tempquestion[no]["option"][0].split("image_")[1]}" alt="question image">
+						<img src="${tempquestion[no]["option"][0].split("image_")[1]}">
 					`:`
 						${tempquestion[no]["option"][0]}
 					`
@@ -31,7 +32,7 @@ function main(){
 			<div class="fill">
 				${
 					tempquestion[no]["option"][1].split("image_")[1]?`
-						<img src="${tempquestion[no]["option"][1].split("image_")[1]}" alt="question image">
+						<img src="${tempquestion[no]["option"][1].split("image_")[1]}">
 					`:`
 						${tempquestion[no]["option"][1]}
 					`
@@ -43,7 +44,7 @@ function main(){
 			<div class="fill">
 				${
 					tempquestion[no]["option"][2].split("image_")[1]?`
-						<img src="${tempquestion[no]["option"][2].split("image_")[1]}" alt="question image">
+						<img src="${tempquestion[no]["option"][2].split("image_")[1]}">
 					`:`
 						${tempquestion[no]["option"][2]}
 					`
@@ -55,7 +56,7 @@ function main(){
 			<div class="fill">
 				${
 					tempquestion[no]["option"][3].split("image_")[1]?`
-						<img src="${tempquestion[no]["option"][3].split("image_")[1]}" alt="question image">
+						<img src="${tempquestion[no]["option"][3].split("image_")[1]}">
 					`:`
 						${tempquestion[no]["option"][3]}
 					`

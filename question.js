@@ -538,7 +538,7 @@ let question=[
 	},{
 		"question": "機器人危害之主要原因不包括? [題本p10-68]",
 		"questionimage": null,
-		"option": ["外務入侵","人為疏失","設計不良","以上皆是"],
+		"option": ["外物入侵","人為疏失","設計不良","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
@@ -2633,15 +2633,15 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何者不是滾動軸承分類條件? [題本p30-330]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["滾動體的形狀","接觸面的大小","排列","軌道環的形狀"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},,{
-		"question": "",
+		"question": "? [題本p30-331]",
 		"questionimage": null,
 		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
 		"optionend": "。",
