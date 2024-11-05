@@ -12723,3 +12723,8 @@ html[data-background="secondary"],html[data-background="secondary"] body{
 .text-nowrap{
 	white-space: nowrap;
 }
+
+.image{
+	max-width: 100%;
+	max-height: 100%;
+}
