@@ -504,9 +504,14 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "暫略 [題本p9-64]",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"question": "考略如圖的差速移動平台，假設P點為該移動平台的參考點，其座標為(x,y)，方位角度角為θ。假設該平台的直線速度為v，旋轉角速度為w，該差速移動平台的運動學方程式為 [題本p9-64]",
+		"questionimage": "image_image009064.jpg",
+		"option": [
+			"[[dotx],[doty],[dotθ]]=[[cosθ,0],[sinθ,0],[0,1]][[w],[v]]",
+			"[[dotx],[dotθ],[doty]]=[[cosθ,0],[sinθ,0],[0,1]][[v],[w]]",
+			"[[dotθ],[doty],[dotx]]=[[cosθ,0],[sinθ,0],[0,1]][[v],[w]]",
+			"[[dotx],[doty],[dotθ]]=[[cosθ,0],[sinθ,0],[0,1]][[v],[w]]"
+		],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
@@ -3074,447 +3079,183 @@ let question=[
 		"ps": ""
 	},
 	{
-		"question": "? [題本p36-379]",
+		"question": "下列何者不是欠驅動機構設計原理的主要說明? [題本p36-379]",
 		"questionimage": null,
-		"option": ["適合高轉速","不需要潤滑油","噪音少","初期張力少"],
+		"option": ["驅動數少於機構的自由度數","擬真人手指骨骼架構","為自適應性夾具常使用設計方式","其驅動機構、控制系統將更加困難"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
+		"question": "一般常見的夾爪有分成各種形態，根據Monkam等人在2007年說明夾爪根據不同的應用目標與動作要求可分為四種型態，下列何者敘述正確? [題本p36-380]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["Impactive(直接抓持)：以夾指或夾具直接接觸丶抓持目標物","Ingressive(針刺丶勾取)：以針刺穿透固定或以鉤子勾取目標物","Astrictive(吸引、吸附)：以吸引力吸附固定目標物","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "若夾取物W為2kgf，使用一個氣動吸盤以水平方式吸取，真空壓力P=-350mmHg，則選用多少面積的真空吸盤較為合適? [題本p36-381]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
+		"option": ["16.5","17.5","18.5","19.5"],
+		"optionend": "cm²。",
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "有一單桿變動氣壓缸，內徑為40mm，使用空氣壓力5N/mm²，則其推出力為多少? [題本p36-382]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
+		"option": ["5280","6280","7280","8280"],
+		"optionend": "N。",
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "在機器人夾爪上會使用齒輪來改變傳動及方向，在此有一驅動齒輪齒數為20;另一被動齒輪齒數為11，試問此組齒輪的傳動比為何? [題本p36-383]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["2","1/2","20/11","11/20"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
+		"question": "如圖為某公司的兩指電動夾具示意圖與夾持力公式，若滿足夾取物不掉落之條件為2μF>W，其中夾具與工作物間的摩擦係數μ=0.2 以及工作物重量W=10kg，假設安全係數Sc為4，試問應當選擇多少夾持力之夾爪? [題本p36-384]",
+		"questionimage": "image_image/q036385.jpg",
+		"option": ["6.25","61.25","100","980"],
+		"optionend": "N。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "機器人夾爪之輸入動力來源可以是? [題本p36-385]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["氣壓","液壓","電氣","以上皆可"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "機器人夾爪內部通常惠裝有墊片，主要目的為? [題本p36-386]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["美觀","增加物件與夾爪之間的摩擦力與接觸面積","改善夾爪表面粗糙度","增加夾爪的靈活度"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "欲夾取玻璃物件，以選擇何種夾爪較為適宜? [題本p37-387]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["黏著式","機械式","真空吸盤式","磁力式"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "一般而言，欲搬動不鏽鋼平板時，何種夾爪不適用? [題本p37-388]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["黏著式","機械式","真空吸盤式","磁力式"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列有關磁力式夾爪的敘述，何者有誤? [題本p37-389]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["不能使用於有孔的金屬物件","夾爪不需針對物件形狀而設計","對物件尺寸容許度大","抓取物件非常快速"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列有關真空吸盤式夾爪的敘述，何者有誤? [題本p37-390]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["適用於各種不同材質的物件","不能使用於有孔的設計","夾爪作用於物件表面的壓力是均勻的","抓取時需使用物件兩個以上的面"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "處理紡織品或輕質量物料時，以選擇何種夾爪較為適宜? [題本p37-391]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["黏著式","機械式","真空吸盤式","磁力式"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "以下敘述何者有誤? [題本p37-392]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["夾持物件的表面必須是可適當觸及的","夾持力向大小必須考慮物件尺寸的改變","夾持物件造成尺寸的改變不會影響物件位置的精確度","設計夾爪與物件的接觸面時，應考量物件表面的性質"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "以下敘述何者有誤? [題本p37-393]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["對於物件具有不同大小的表面時，夾爪必須握住物件較大的表面，將有助於夾持的穩定性與物件的定位控制","精確估計夾持物件所需的夾持是非常容易的","電磁式夾爪比永磁式夾爪容易控制","計算機械夾爪所需之夾持力時，需要考慮夾爪與物件表面的摩擦係數"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "若塑膠物件只有一個面可供夾持，應選用下列何種夾爪為宜? [題本p37-394]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["黏著式","機械式","真空吸盤式","磁力式"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下述有關磁力式夾爪的敘述，何者有誤? [題本p37-395]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["僅需物件的單一表面即可抓取物件","抓取物件非常快速","因磁力強大，在快速移動被抓取的物件時，物件不會掉落","可以抓取有洞的金屬物件"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下述有關夾爪的敘述，何者有誤? [題本p37-396]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["電磁式夾爪比永磁式夾爪容易控制","夾持工作結束時，永磁式夾爪比電磁式夾爪更容易釋放物件","真空吸盤式夾爪具有吸收震動的能力","真空吸盤式夾爪經常被用於抓取非金屬物件"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下述有關夾爪的敘述，何者有誤? [題本p37-397]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["電磁式夾爪不適用於具有爆炸可能性的工作","金屬加工的殘削在夾爪卸載時可能吸附在永磁式夾爪上","在具有油霧的環境，不適用磁力式夾爪","機械式夾爪僅可用氣壓及油壓作為動力源來驅動"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "以機器人夾爪的垂直搬運一方型物件，若最大加速度為40ft/sec²，且產生之力與重力方向相同且平行，其重力因子(g因子)之值為何? [題本p37-398]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["2.24","-2.24","3.24","-3.24"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下述有關夾爪的敘述，何者有誤? [題本p37-399]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["在大部分的用途上，機械式平行夾爪比其他形式夾爪更為精確","工作完成時，電磁式夾爪需要一個移除機構或工具將物件釋放","氣壓驅動式夾爪具有成本低廉、重量輕及容易使用等優點","當要夾取複雜形狀的物件時，三顎夾爪比兩顎夾爪更為適用"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "現今較常見的夾爪種類，根據夾取機構不同分為? [題本p38-400]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["支點型夾爪","平行型夾爪","同心型夾爪","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列? [題本p38-401]",
 		"questionimage": null,
 		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
 		"optionend": "。",
@@ -3594,14 +3335,6 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},,{
 		"question": "",
 		"questionimage": null,
 		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
