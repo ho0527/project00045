@@ -3255,153 +3255,153 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "下列? [題本p38-401]",
+		"question": "下列何者非工業上最常見夾爪驅動方式可為? [題本p38-401]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["空壓式","油壓式","電力式","磁力式"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何者為空氣壓力系統夾爪優點? [題本p38-402]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["控制精確","高速性","噪音小","動力穩定"],
+		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "下列何者為空氣壓力系統夾爪缺點? [題本p38-403]",
+		"questionimage": null,
+		"option": ["動力大","高成本","噪音大","驅動過程平順"],
+		"optionend": "。",
+		"answer": 2,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "下列何者為液壓系統夾爪優點? [題本p38-404]",
+		"questionimage": null,
+		"option": [,"驅動過程平順","噪音大","動力大","速度快"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "油壓系統夾爪缺點? [題本p38-405]",
+		"questionimage": null,
+		"option": ["液壓管線易洩漏","噪音大","動力大","高速度"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "下列何者為電力式夾爪優點? [題本p38-406]",
+		"questionimage": null,
+		"option": ["精密度高","動力大","高速度","成本低"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "下列何者為夾爪把握動作型態? [題本p38-407]",
+		"questionimage": null,
+		"option": ["吸著","夾住","吊下","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何種感知非夾爪所常採用? [題本p38-408]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["觸覺","位置感覺","聽覺","平衡覺"],
+		"optionend": "。",
+		"answer": 2,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "下列何者為非常用之機械夾爪? [題本p38-409]",
+		"questionimage": null,
+		"option": ["吸附式取料手","兩指夾取式","仿生手指","以上皆是"],
+		"optionend": "。",
+		"answer": 2,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "機構制動型態的夾爪可分為下列何種? [題本p38-410]",
+		"questionimage": null,
+		"option": ["連桿制動器","齒輪與齒條制動器","螺桿致動器","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "若有一硬紙盒重10lb，用夾爪靠指尖摩擦力夾持，其接觸表面的摩擦係數為0.25，紙盒重力方向與之間表面平行，故在夾持力計算中g因子為3.0，不考率安全因素，是求夾持力大小? [題本p38-411]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["60","70","80","90"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "吸盤式夾爪其吸附面積及負載程度關係式為何? [題本p38-412]",
+		"questionimage": null,
+		"option": ["F-MA","F=PA","σ=Eε","τ=rc"],
+		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "夾爪指爪的開與關可用下列何種運動? [題本p38-413]",
+		"questionimage": null,
+		"option": ["樞紐運動","線性或平移運動","以上皆是","以上皆非"],
+		"optionend": "。",
+		"answer": 2,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "夾爪的制動方式一般為何式? [題本p38-414]",
+		"questionimage": null,
+		"option": ["氣動","液壓","電動","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "近代機器人的手臂端效器需配合合適工具以進行各種不同應用，下列合向非該挾持工具之設計時需考慮之主要因素? [題本p38-415]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["夾爪夾持工件的方法","欲夾持工件之幾何外觀與尺寸","夾爪的功能","流線型與風阻"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "標準夾爪通常具有兩種形式夾緊動作，支點型(angular)、平行型(parallel)，而驅動其動作的方法，除了用電力馬達缺洞外還可以用何種方法? [題本p38-416]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["氣體壓力","液體壓力","彈簧力","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "真空型夾爪其夾取力的大小取決於環境周圍的大氣壓力，一般海平面之位置對物體表面之大氣壓力為多少? [題本p38-417]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["5","10","14.7","20"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "夾爪設計時，夾持工件的長度最好是大約總長度的? [題本p38-418]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["1/8","3/4","1/4","1/2"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "以下夾爪，哪一種夾爪夾持力最強? [題本p39-419]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["氣壓夾爪","電動夾爪","彈簧夾爪","液壓夾爪"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
