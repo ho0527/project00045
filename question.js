@@ -3407,91 +3407,91 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "以下何種夾爪設計簡單，適合初學者使用? [題本p39-420]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["支點型夾爪","平行型夾爪","三爪同新型夾爪","迴轉型同心型夾爪"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "如圖為著名的擬人型機器夾爪Utah-MIT Hand,請思考其總共有幾個自由度? [題本p39-421]",
+		"questionimage": "image_image/q039421.jpg",
+		"option": ["18","17","16","6"],
+		"optionend": "個。",
+		"answer": 2,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "夾爪的驅動方式有很多種，以下何種方法可以使得設計簡單、成本降低，但卻有著較大的噪音、控制稍嫌不精確、且動力小? [題本p39-422]",
+		"questionimage": null,
+		"option": ["氣動","液壓","電動","彈簧"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "夾爪驅動方式有很多種，以下何種方法可以產生較大的動力且驅動過程平順，但缺點是輸入和輸出之間有極大的延遲時間? [題本p39-423]",
+		"questionimage": null,
+		"option": ["氣動","液壓","電動","彈簧"],
+		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "現在機器人不僅僅只是替代工廠員工作重複無聊的工作，追求的是人機互動。因此機器人不只需要視覺和聽覺，更重要不可或缺的是夾爪的觸覺，而壓力感測器就顯得極為重要，下列何種形式不是現今壓力感測器的主要形式? [題本p39-424]",
+		"questionimage": null,
+		"option": ["壓電式","電容式","薄膜式","摩擦式"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "機器人手爪可裝壓力靈敏電阻感測器(FSR)來做壓力感測，其中又以壓電式最為常見，壓電式感測器以下描述，何者為非? [題本p39-425]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["結構簡單、體積小、功耗小、壽命長","具有良好的動態特性","適合有週期作用力合高速變化的衝擊力","可以使用大力量之靜態測量"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "夾爪之夾片加裝壓電式感測器，無法直接或間接測量夾爪之下列何種物理狀態? [題本p39-426]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["挾持力","挾持壓力","加速度","夾爪大小"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "壓電感測器去有燒錄方便、易成形、耐濕、耐高溫，但卻會有熱釋電性，導致力學量測有所干擾的是? [題本p39-427]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["壓電石英感測器","壓電陶瓷感測器","壓電有機感測器","壓電無機感測器"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "肘節機構一般可應用於設計機械手臂之下列何種功能? [題本p39-428]",
+		"questionimage": null,
+		"option": ["條速器","分度","旋轉","夾具"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "當石英材料受到外界壓力時，導致晶格形狀改變或扭曲，而在材料表面兩端產生電動勢，此種效應稱為? [題本p39-429]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["壓電效應","熱能效應","電感效應","電能效應"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "欠驅動(underacruated)為機器人夾爪上採用的一個方式，其代表夾爪上的制動關節數目少於? [題本p39-430]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["夾爪的爪數","每一個爪上的關節數","夾爪的自由度","夾爪的感測器數目"],
 		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
