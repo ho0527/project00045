@@ -3,6 +3,8 @@ let tempquestion=fisheryatesshuffle([...question])
 tempquestion=[...question]
 
 function main(){
+	let optionlist=[]
+
 	innerhtml("#question",`
 		Q:<br>
 		${tempquestion[no]["question"]}
@@ -14,55 +16,29 @@ function main(){
 		}
 	`,false)
 
+	for(let i=0;i<tempquestion[no]["option"].length;i=i+1){
+		if(tempquestion[no]["option"][i]!=null){
+			optionlist.push(`
+				<label class="option">
+					<input type="radio" name="option" value="${i}">
+					<div class="fill">
+						${
+							tempquestion[no]["option"][i].split("image_")[1]?`
+								<img src="${tempquestion[no]["option"][i].split("image_")[1]}" class="image">
+							`:`
+								${tempquestion[no]["option"][i]}
+							`
+						}
+					</div>
+				</label>
+			`)
+		}else{
+			break
+		}
+	}
+
 	innerhtml("#option",`
-		<label class="option">
-			<input type="radio" name="option" value="0">
-			<div class="fill">
-				${
-					tempquestion[no]["option"][0].split("image_")[1]?`
-						<img src="${tempquestion[no]["option"][0].split("image_")[1]}" class="image">
-					`:`
-						${tempquestion[no]["option"][0]}
-					`
-				}
-			</div>
-		</label>
-		<label class="option">
-			<input type="radio" name="option" value="1">
-			<div class="fill">
-				${
-					tempquestion[no]["option"][1].split("image_")[1]?`
-						<img src="${tempquestion[no]["option"][1].split("image_")[1]}" class="image">
-					`:`
-						${tempquestion[no]["option"][1]}
-					`
-				}
-			</div>
-		</label>
-		<label class="option">
-			<input type="radio" name="option" value="2">
-			<div class="fill">
-				${
-					tempquestion[no]["option"][2].split("image_")[1]?`
-						<img src="${tempquestion[no]["option"][2].split("image_")[1]}" class="image">
-					`:`
-						${tempquestion[no]["option"][2]}
-					`
-				}
-			</div>
-		</label>
-		<label class="option">
-			<input type="radio" name="option" value="3">
-			<div class="fill">
-				${
-					tempquestion[no]["option"][3].split("image_")[1]?`
-						<img src="${tempquestion[no]["option"][3].split("image_")[1]}" class="image">
-					`:`
-						${tempquestion[no]["option"][3]}
-					`
-				}
-			</div>
-		</label>
+		${fisheryatesshuffle(optionlist).join("")}
 		${tempquestion[no]["optionend"]}
 		${
 			tempquestion[no]["ps"]!=""?`
@@ -96,8 +72,8 @@ onclick("#submit",function(element,event){
 
 	if(getvalue("input[name=option]:checked")[0]){
 		innerhtml("#answer",`
-			<div>你的答案: ${answerlist[getvalue("input[name=option]:checked")[0]]} </div><br>
-			<div>正確答案: ${answerlist[tempquestion[no]["answer"]]} </div><br>
+			<div>你的答案: ${getinnerhtml("input[name=option]:checked~.fill")[0]} </div><br>
+			<div>正確答案: ${tempquestion[no]["option"][tempquestion[no]["answer"]]} </div><br>
 			${
 				tempquestion[no]["explain"]!=""?`
 					<div class="text normal">
