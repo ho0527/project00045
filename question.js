@@ -4286,6 +4286,342 @@ let question=[
 		"answer": 3,
 		"explain": "",
 		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "",
+		"questionimage": null,
+		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"optionend": "。",
+		"answer": 3,
+		"explain": "",
+		"ps": ""
 	},,{
 		"question": "",
 		"questionimage": null,
@@ -15254,126 +15590,6 @@ let question=[
 		"answer": 3,
 		"explain": "",
 		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
 	},,{
 		"question": "",
 		"questionimage": null,
@@ -23599,1046 +23815,6 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},,{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},,{
 		"question": "",
 		"questionimage": null,
 		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
