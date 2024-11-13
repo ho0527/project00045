@@ -4079,203 +4079,203 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "雇主為防止勞工與機器人接觸引起之危害，機器人遇到下列哪些狀態時，應可自動停止動作，並設置指示燈。①因油壓、氣壓或電壓之變動，有發生錯誤動作之虞時;②因停電等致動力源被遮斷時;③因關連機器發生故障時;④因控制裝置發生異常時。請問以上哪些項目是正確的? [題本p46-504]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["①②④","①②③④","①③④","②③④"],
+		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "以下有關醫療用機器人之敘述何者錯誤? [題本p46-505]",
+		"questionimage": null,
+		"option": ["必須具備應有的安全性","操作易於學習","使用前需消毒殺菌","動作執行後尚可重來"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "關於醫療機器人之設計安全考量，下列選項何者有誤? [題本p46-506]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["須遵從各機構之倫理規範","不必遵從藥事法","須滿足多項社會要求","必須評估可能產生的副作用"],
+		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "下列為機器人安全設計原則之風險評估四大程序(順序未知):①判定危險因子;②評定風險;③估計風險;④決定機器人的使用相關限制事項。請問下列排序何者正確? [題本p46-507]",
+		"questionimage": null,
+		"option": ["①②③④","④①②③","④①③②","④③②①"],
+		"optionend": "。",
+		"answer": 2,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "下列為機器人安全設計原則之保護對策的三大步驟(順序未知):①本質上的安全設計對策;②安全防護對策及(或)附加保護對策;③使用上的資訊;。請問下列排序何者正確[題本p46-508]",
+		"questionimage": null,
+		"option": ["①②③","①③②","②③①","③②①"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "設計醫療機器人時，何者應列為首要考量? [題本p46-509]",
+		"questionimage": null,
+		"option": ["精準度高","成本低","安全性高","病患恢復時間較短"],
+		"optionend": "。",
+		"answer": 2,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "以下有關醫療用機器人之敘述何者錯誤? [題本p46-510]",
+		"questionimage": null,
+		"option": ["使用對象為生命體","安全相容性是最高準則","安全認證程序與工業機器人不同","屬性和工業機器人一樣"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "目前醫界最知名的手術機器人為直覺手術公司(Intutive Surgical Co.)所開發的達文西機器人系統。請問該系統現今仍無法協助以下哪種手術? [題本p46-511]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["膽囊切除手術","膝關節置換手術","胃切除手術","子宮肌瘤切除手術"],
+		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "醫療與復健機器人需經過以下何種測試，才能供人類使用? [題本p46-512]",
+		"questionimage": null,
+		"option": ["電氣、機械測試","安全規範","機器人設備的零組件及軟體測試","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何者不屬於機器人四大安全關鍵之一? [題本p46-513]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["溫度","漏電值","電磁輻射","重量"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何者非引起機器人危害的因素之一? [題本p46-514]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["警告標示及信號","設計美感","人員對機器人安全的認知","控制人員的訓練與熟悉程度"],
 		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "關於醫療與復健機器人之設計安全，下列何者為非主要考量項目? [題本p46-515]",
+		"questionimage": null,
+		"option": ["操作特性","模組化用狀況下，應於下一個安全功能要求時或之前偵測出單一出錯","機器人應具備一項以上保護性停止功能","系統整合性"],
+		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "在機器人操作的過程中，若遇有危險之情形時，宜有一緊急停止裝置來關閉電源，以確保操作員之安全。此種裝置應放置於操作人員易看見且易於使用之處，以確保危急時使用之便利性與時效性。下列何者不是常見之緊急停止裝置? [題本p46-516]",
+		"questionimage": null,
+		"option": ["自動式開關","機械式停止器","極限開關","死人開關"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "以下關於醫療與復健機器人使用之安全敘述，何者有錯? [題本p47-517]",
+		"questionimage": null,
+		"option": ["應建立安全防護區域","當進入危險區域時，應有對應的安全防護方式","機器人的設計、製造與安裝應儘可能使得最多的工作和任務，能在危險區域以內執行","定期檢查與測試安全防護裝置，以確定其有效性"],
+		"optionend": "。",
+		"answer": 2,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "以下世界各國及其機器人安全防護國家標準英文簡稱配對何者有誤? [題本p47-518]",
+		"questionimage": null,
+		"option": ["台灣/CNC","日本/JIS","美國/ANSI","國際標準組織/ISO"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "使用機器人之前皆須做檢查的動作，下列何者檢查動作有誤? [題本p47-519]",
+		"questionimage": null,
+		"option": ["供輸電壓、油壓及空壓有無異常","肉眼檢查設備裝置有無鬆動","有無異常之聲音或震動","外部電線、配管等有無損傷"],
+		"optionend": "。",
+		"answer": 1,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "下列何者通常不被視為工業機器人可能帶來的顯著危害? [題本p47-520]",
+		"questionimage": null,
+		"option": ["噪音危害","振動危害","提供人員充分時間遠離危害運動或停止該機器人","以上皆是"],
+		"optionend": "。",
+		"answer": 0,
+		"explain": "",
+		"ps": ""
+	},{
+		"question": "一般來說，機器人之安全額定減速應低於下列何值? [題本p47-521]",
+		"questionimage": null,
+		"option": ["100","150","200","250"],
+		"optionend": "mm/s。",
 		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何者為機器人安全額定中減速控制的主要用途? [題本p47-522]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["使機器人不因高轉速導致馬達毀損","使機器人控制更為準確","提供人員充分時間遠離危害運動或停止該機器人","以上皆是"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "請問下列何者非危害鑑別及風險評鑑應特別考量之事項? [題本p47-523]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["非預期啟動","機器人定期之操作，包括教導、維護、設定與清潔","人員須由特定方向接近","控制系統失效之效應"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "關於緊急停止及保護性停止之敘述何者為非? [題本p47-524]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["保護性停止之啟動方式僅能以手動方式開啟","保護性停止之主要用途為安全防護或風險降低","緊急停止僅能以手動方式重置","緊急停止的啟動裝置之位置須使操作人員可快速無阻礙的接近"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何者非緊急停止應具備的主要功能? [題本p47-525]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["移除機器人致動器之驅動動力","維持作用直至重置為止","優先順序依設計者決定","提供機器人系統控制之危害的控制能力"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何者非保護性停止應具備的主要功能? [題本p47-526]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["移除或控制機器人驅動致動器之動力","停止功能僅能由控制邏輯啟動","容許控制任何受機器人控制之危害","停止所有機器人運動"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "關於協同操作要求中的安全額定監控停止之描述，何者有誤? [題本p47-527]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["人員位於協同工作空間內時，機器人應停止","此等零件之單一出錯將導致安全功能喪失","在性能要求中，合理實用情況下，應於下一個安全功能要求時或之前偵測出單一出錯","機器人應具備一項以上保護性停止功能"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "",
+		"question": "下列何者為協同操作要求中的奇異點保護處於手動減速模式或手動導引時，機器人應執行的項目之一? [題本p47-528]",
 		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
+		"option": ["於機器人穿越奇異點或因奇異點而修正前，提供警示且無須停止機器人話","產生一可聽或可見之警示信號並持續穿越奇異點，為了加速穿越奇異點機器人手臂個連桿速度之最大速限為400mm/s","若奇異點為可控制且不致造成任何危害運動，則不需採用額外保護措施","以上皆可"],
 		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
-		"explain": "",
-		"ps": ""
-	},{
-		"question": "",
-		"questionimage": null,
-		"option": ["汽車板金噴漆","食品自動化整列","手機外殼去毛編輯拋光","以上皆是"],
-		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
