@@ -69,11 +69,13 @@ main()
 
 onclick("#submit",function(element,event){
 	let answerlist=["A","B","C","D","E"]
+	let youranswer=getvalue("input[name=option]:checked")[0]
+	let correctanswer=tempquestion[no]["answer"]
 
 	if(getvalue("input[name=option]:checked")[0]){
 		innerhtml("#answer",`
-			<div>你的答案: ${getinnerhtml("input[name=option]:checked~.fill")[0]} </div><br>
-			<div>正確答案: ${tempquestion[no]["option"][tempquestion[no]["answer"]]} </div><br>
+			<div class="answer${youranswer==correctanswer?'correct':'error'}">你的答案: ${youranswer} </div><br>
+			<div class="answer${correctanswer==correctanswer?'correct':'error'}}">正確答案: ${correctanswer} </div><br>
 			${
 				tempquestion[no]["explain"]!=""?`
 					<div class="text normal">

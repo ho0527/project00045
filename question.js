@@ -4135,7 +4135,7 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "目前醫界最知名的手術機器人為直覺手術公司(Intutive Surgical Co.)所開發的達文西機器人系統。請問該系統現今仍無法協助以下哪種手術? [題本p46-511]",
+		"question": "目前醫界最知名的手術機器人為直覺手術公司(Intuitive Surgical Co.)所開發的達文西機器人系統。請問該系統現今仍無法協助以下哪種手術? [題本p46-511]",
 		"questionimage": null,
 		"option": ["膽囊切除手術","膝關節置換手術","胃切除手術","子宮肌瘤切除手術"],
 		"optionend": "。",
@@ -4159,7 +4159,7 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "下列何者非引起機器人危害的因素之一? [題本p46-514]",
+		"question": "下列何者非防止機器人危害的因素之一? [題本p46-514]",
 		"questionimage": null,
 		"option": ["警告標示及信號","設計美感","人員對機器人安全的認知","控制人員的訓練與熟悉程度"],
 		"optionend": "。",
