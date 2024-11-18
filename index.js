@@ -69,7 +69,7 @@ main()
 
 onclick("#submit",function(element,event){
 	let answerlist=["A","B","C","D","E"]
-	let youranswer=getvalue("input[name=option]:checked")[0]
+	let youranswer=getinnerhtml("input[name=option]:checked~.fill")[0]
 	let correctanswer=tempquestion[no]["answer"]
 
 	if(getvalue("input[name=option]:checked")[0]){
