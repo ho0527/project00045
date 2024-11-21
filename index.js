@@ -1,6 +1,6 @@
 let no=0
 let tempquestion=fisheryatesshuffle([...question])
-// tempquestion=[...question]
+tempquestion=[...question]
 
 function main(){
 	let optionlist=[]
