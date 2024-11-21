@@ -74,7 +74,7 @@ onclick("#submit",function(element,event){
 
 	if(getvalue("input[name=option]:checked")[0]){
 		innerhtml("#answer",`
-			<div class="answer${youranswer==correctanswer?'correct':'error'}">你的答案: ${youranswer} </div><br>
+			<div class="answer${getvalue("input[name=option]:checked")[0]==tempquestion[no]["answer"]?'correct':'error'}">你的答案: ${youranswer} </div><br>
 			<div class="answer${correctanswer==correctanswer?'correct':'error'}}">正確答案: ${correctanswer} </div><br>
 			${
 				tempquestion[no]["explain"]!=""?`
