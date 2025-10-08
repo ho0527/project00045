@@ -1481,7 +1481,7 @@ let question=[
 		"questionimage": null,
 		"option": ["需設計閉迴路控制器","需設計適用之馬達","需使用攝影機","需使用超音波感測器"],
 		"optionend": "。",
-		"answer": 2,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
@@ -1801,7 +1801,7 @@ let question=[
 		"questionimage": null,
 		"option": ["扭力","速度","加速度","位移"],
 		"optionend": "。",
-		"answer": 0,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
@@ -1809,7 +1809,7 @@ let question=[
 		"questionimage": null,
 		"option": ["價格低廉","高剛性","低背係","減速比大"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
