@@ -1,3 +1,4 @@
+已使用 88% 的儲存空間 … 儲存空間用盡後，你就無法將檔案儲存至雲端硬碟，也無法使用 Gmail。現在購買 30 GB 儲存空間，可享 3 個月折扣，每月只要 UAH 20 UAH 5。
 let question=[
 	{
 		"question": "多軸關節式機器人(機器手臂)的特點是高自由度與靈活性，常應用於物件的搬運，如取放與堆疊或複雜的加工、零組件的組裝或是工件去毛邊；並聯是機器人(Delta Robot)的特點是工作範圍僅限於手臂末端附近的圓柱體區域運作速度快、精度高且里肌誤差小，工業上常搭配視覺系統來運作。試問下列何者適合以並聯是機器人來開發? [題本p5-1]",
@@ -56,7 +57,7 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "考量強度有些機器人的機體材質使用金屬構成，就會有重量問題、如要讓機器人運動，馬達的選配就很重要。試問下列哪一項是挑選馬達的主要因素? [題本p5-8]",
+		"question": "考量強度有些機器人的機體材質使 用金屬構成，就會有重量問題、如要讓機器人運動，馬達的選配就很重要。試問下列哪一項是挑選馬達的主要因素? [題本p5-8]",
 		"questionimage": null,
 		"option": ["精度","功耗","體積","扭力"],
 		"optionend": "。",
@@ -200,7 +201,7 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "對六軸機器人，通常不能旋轉達到360度軸是 [題本p7-26]",
+		"question": "對六軸機器人而言，通常不能旋轉達到360度軸是 [題本p7-26]",
 		"questionimage": null,
 		"option": ["第一軸","第四軸","第五軸","第六軸"],
 		"optionend": "。",
@@ -505,7 +506,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "考略如圖的差速移動平台，假設P點為該移動平台的參考點，其座標為(x,y)，方位角度角為θ。假設該平台的直線速度為v，旋轉角速度為w，該差速移動平台的運動學方程式為 [題本p9-64]",
-		"questionimage": "image_image009064.jpg",
+		"questionimage": "image_image/q009064.jpg",
 		"option": [
 			"[[dotx],[doty],[dotθ]]=[[cosθ,0],[sinθ,0],[0,1]][[w],[v]]",
 			"[[dotx],[dotθ],[doty]]=[[cosθ,0],[sinθ,0],[0,1]][[v],[w]]",
@@ -591,7 +592,7 @@ let question=[
 	},{
 		"question": "試問可以使用交、直流電源驅動之『萬用電機』指的是 [題本p10-74]",
 		"questionimage": null,
-		"option": ["感應電動機","磁阻電動機","直流串機電動機","直流無刷電動機"],
+		"option": ["感應電動機","磁阻電動機","直流串激電動機","直流無刷電動機"],
 		"optionend": "。",
 		"answer": 2,
 		"explain": "",
@@ -869,9 +870,9 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "在進行滾珠螺桿的傳動機構的馬達選配時，若M代表工作物的質量，Bₚ代表螺桿導程，Jb代表螺桿的轉動慣量，則傳動機構的等效慣量為 [題本p14-109]",
+		"question": "在進行滾珠螺桿的傳動機構的馬達選配時，若M代表工作物的質量，Bₚ代表螺桿導程，Jʙ代表螺桿的轉動慣量，則傳動機構的等效慣量為 [題本p14-109]",
 		"questionimage": null,
-		"option": ["J=(JB)+(M(Bₚ²)/π²)","J=(JB)+(M(Bₚ²)/2π²)","J=(JB)+(M(Bₚ²)/4π²)","J=(JB)+(M(Bₚ²)/8π²)"],
+		"option": ["J=(Jʙ)+(M(Bₚ²)/π²)","J=(Jʙ)+(M(Bₚ²)/2π²)","J=(Jʙ)+(M(Bₚ²)/4π²)","J=(Jʙ)+(M(Bₚ²)/8π²)"],
 		"optionend": "。",
 		"answer": 2,
 		"explain": "",
@@ -913,7 +914,7 @@ let question=[
 		"questionimage": null,
 		"option": ["1.2x10^(-4)","1.5x10^(-4)","2.1x10^(-4)","3.1x10^(-4)"],
 		"optionend": "(kg·m²)。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
@@ -1239,7 +1240,7 @@ let question=[
 	},{
 		"question": "下列何者不屬於直流馬達的優點? [題本p17-155]",
 		"questionimage": null,
-		"option": ["利用簡單的變阻器來調整加於馬達上的電壓就可以調整速度","利用開關切換施加於馬達之電壓極性就可以使馬達反轉","加速及減速可以被控制，以提供所期望的反應時間或減少晃動","不會因施加於馬達的電流改變而改變輸出扭矩矩"],
+		"option": ["利用簡單的變阻器來調整加於馬達上的電壓就可以調整速度","利用開關切換施加於馬達之電壓極性就可以使馬達反轉","加速及減速可以被控制，以提供所期望的反應時間或減少晃動","不會因施加於馬達的電流改變而改變輸出扭矩"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
@@ -1263,7 +1264,7 @@ let question=[
 	},{
 		"question": "下列敘述何者不正確? [題本p17-158]",
 		"questionimage": null,
-		"option": ["在選用驅動器與步進馬達時，要注意驅動器的驅動電流是否與步進馬達每相所需的驅動電流一致","不同大小的馬達需要驅動電壓的大小不同，所以驅動器必須能提供步進馬達足夠的電壓","步進馬達長度越長，馬達紐具就越大","選用內建減速機的馬達與提升步進馬達的紐矩無關"],
+		"option": ["在選用驅動器與步進馬達時，要注意驅動器的驅動電流是否與步進馬達每相所需的驅動電流一致","不同大小的馬達需要驅動電壓的大小不同，所以驅動器必須能提供步進馬達足夠的電壓","步進馬達長度越長，馬達扭矩就越大","選用內建減速機的馬達與提升步進馬達的扭矩無關"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
@@ -1647,7 +1648,7 @@ let question=[
 	},{
 		"question": "機器人定位控制中，有效消除穩態誤差的方式為 [題本p21-206]",
 		"questionimage": null,
-		"option": ["高微分控制(Derivative contol)的增益","採用積分(Integral control)控制","增加致動器的功率","以上皆可"],
+		"option": ["高微分控制(Derivative control)的增益","採用積分(Integral control)控制","增加致動器的功率","以上皆可"],
 		"optionend": "。",
 		"answer": 1,
 		"explain": "",
@@ -1655,7 +1656,7 @@ let question=[
 	},{
 		"question": "機器人定位控制過程中若震盪幅度過大，可? [題本p21-207]",
 		"questionimage": null,
-		"option": ["高微分控制(Derivative contol)的增益","採用積分(Integral control)控制","增加致動器的功率","以上皆可"],
+		"option": ["高微分控制(Derivative control)的增益","採用積分(Integral control)控制","增加致動器的功率","以上皆可"],
 		"optionend": "。",
 		"answer": 0,
 		"explain": "",
@@ -2078,7 +2079,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "如圖為一軸的軌跡，下列何者不是其軌跡的邊界約束條件? [題本p25-260]",
-		"questionimage": null,
+		"questionimage": "image_image/q025260.jpg",
 		"option": ["θ(t₀)=θ₀","bar(θ)₀=0","bar(θ)₁=0","bar(θ)₀≠bar(θ)₁"],
 		"optionend": "。",
 		"answer": 2,
@@ -2101,7 +2102,7 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "一軌跡方程θ(t)=a₁t³+a₂t²+a₃t+a₄，由由θ₀=10°轉至θ1=70°，θ₀與θ₁處的轉速為零，轉動過程為3秒，下列方程式何者為非? [題本p25-263]",
+		"question": "一軌跡方程θ(t)=a₁t³+a₂t²+a₃t+a₄，由θ₀=10°轉至θ1=70°，θ₀與θ₁處的轉速為零，轉動過程為3秒，下列方程式何者為非? [題本p25-263]",
 		"questionimage": null,
 		"option": ["a₁=-10","a₂","a₃=0","a₄=10"],
 		"optionend": "。",
@@ -2142,7 +2143,6 @@ let question=[
 		"ps": ""
 	},{
 		"question": "下列哪一種馬達驅動器之命令模式可控制馬達輸出的速度? [題本p26-268]",
-		"question": "",
 		"questionimage": null,
 		"option": ["P模式","V模式","I模式","以上皆非"],
 		"optionend": "。",
@@ -2154,7 +2154,7 @@ let question=[
 		"questionimage": null,
 		"option": ["Jₘ/Bₘ","R/L","L/R","以上皆非"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2162,7 +2162,7 @@ let question=[
 		"questionimage": null,
 		"option": ["Jₘ/Bₘ","R/L","L/R","以上皆非"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2194,7 +2194,7 @@ let question=[
 		"questionimage": null,
 		"option": ["進行位置與速度之誤差回授","進行輸出力矩之誤差回授","補償模型的不確定性","補償模型的非線性"],
 		"optionend": "。",
-		"answer": 2,
+		"answer": 3,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2322,7 +2322,7 @@ let question=[
 		"questionimage": null,
 		"option": ["滾動","滑動","滾動與滑動皆有","推動接觸"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2330,7 +2330,7 @@ let question=[
 		"questionimage": null,
 		"option": ["多數的止推軸承僅能承受極小或完全無法承受徑向負荷","在無任何元件產生永久變形的條件下，軸承所能承受的負荷值為基本靜額定負荷","標準單螺紋Acme螺桿，相當高的效率是其重大的優點","螺桿運轉的速度要低於臨界速度的0.8倍"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2338,7 +2338,7 @@ let question=[
 		"questionimage": null,
 		"option": ["15","20","25","30"],
 		"optionend": "mm。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2346,13 +2346,13 @@ let question=[
 		"questionimage": null,
 		"option": ["靠近較大槽輪的皮帶內側","靠近較大槽輪的皮帶外側","靠近較小槽輪的皮帶內側","靠近較大槽輪的皮帶外側"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
 		"question": "以鍵傳遞動力時，應選用承受何種作用力之材料較佳? [題本p27-294]",
 		"questionimage": null,
-		"option": ["抗拉及抗壓力","抗拉及抗剪力","抗剪及抗扭轉力","抗壓及抗剪力不同大"],
+		"option": ["抗拉及抗壓力","抗拉及抗剪力","抗剪及抗扭轉力","抗壓及抗剪力"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
@@ -2362,7 +2362,7 @@ let question=[
 		"questionimage": null,
 		"option": ["相反","相同","不一定","無關"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2370,7 +2370,7 @@ let question=[
 		"questionimage": null,
 		"option": ["4","6","8","10"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2466,7 +2466,7 @@ let question=[
 		"questionimage": null,
 		"option": ["傳動效率愈低","傳動效率愈高","轉速比愈大","轉速比愈小"],
 		"optionend": "。",
-		"answer": 0,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2480,7 +2480,7 @@ let question=[
 	},{
 		"question": "請問下列有關V型皮帶的敘述，何者有誤? [題本p28-310]",
 		"questionimage": null,
-		"option": ["其截面為梯形","與平皮帶比較，V型皮帶可傳遞較大功率","規格上有分A、B、C、D、E、M六種形式","其中又以M級V型皮帶節面積最大"],
+		"option": ["其截面為梯形","與平皮帶比較，V型皮帶可傳遞較大功率","規格上有分A、B、C、D、E、M六種形式","其中又以M級V型皮帶截面積最大"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
@@ -2522,7 +2522,7 @@ let question=[
 		"questionimage": null,
 		"option": ["F₁+F₂","F₁-F₂","F₁xF₂","F₁/F₂"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2562,7 +2562,7 @@ let question=[
 		"questionimage": null,
 		"option": ["改變減速比","增加傳動效率","改變轉動方向","減少齒輪干涉現象"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2594,7 +2594,7 @@ let question=[
 		"questionimage": null,
 		"option": ["1","2","3","4"],
 		"optionend": "次。",
-		"answer": 3,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2634,7 +2634,7 @@ let question=[
 		"questionimage": null,
 		"option": ["重量與大小等作為能量來源的密度","不易於控制的機能面","供給的能量來源是否易於使用","準確造成目標的運動與動作"],
 		"optionend": "。",
-		"answer": 2,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
@@ -2647,7 +2647,7 @@ let question=[
 		"ps": ""
 	},
 	{
-		"question": "何種式滑動軸承的特性? [題本p30-331]",
+		"question": "何種是滑動軸承的特性? [題本p30-331]",
 		"questionimage": null,
 		"option": ["線接觸","摩擦小","適合中低轉速","不適合支撐重物"],
 		"optionend": "。",
@@ -2694,9 +2694,9 @@ let question=[
 	{
 		"question": "請問下列哪一個是蝸輪蝸桿機構? [題本p30-336]",
 		"questionimage": null,
-		"option": ["image_image/q030336_opt01.jpg","image_image/q030336_opt01.jpg","image_image/q030336_opt01.jpg","image_image/q030336_opt01.jpg"],
+		"option": ["image_image/q030336_opt01.jpg","image_image/q030336_opt02.jpg","image_image/q030336_opt03.jpg","image_image/q030336_opt04.jpg"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},
@@ -2712,7 +2712,7 @@ let question=[
 	{
 		"question": "在機器人的組成機構中，有各式各樣的傳動裝置，請問下列機構對應的名稱哪個是正確的? [題本p30-338]",
 		"questionimage": null,
-		"option": ["image_image/q030336_opt01.jpg","image_image/q030336_opt01.jpg","image_image/q030336_opt01.jpg","image_image/q030336_opt01.jpg"],
+		"option": ["image_image/q030338_opt01.jpg","image_image/q030338_opt02.jpg","image_image/q030338_opt03.jpg","image_image/q030338_opt04.jpg"],
 		"optionend": "。",
 		"answer": 0,
 		"explain": "",
@@ -2783,7 +2783,7 @@ let question=[
 	},
 	{
 		"question": "圖中所示為機器人上常用的斜波減速機(Harmonic drive)的概念圖，具有三個元件。在一般減速的使用方式中，哪一個元件為和致動器相連的輸入端? [題本p31-346]",
-		"questionimage": null,
+		"questionimage": "image_image/q031346.jpg",
 		"option": ["最內側元件","中間元件","外側元件","都可以，視減速狀況而定"],
 		"optionend": "。",
 		"answer": 0,
@@ -2939,7 +2939,7 @@ let question=[
 		"questionimage": null,
 		"option": ["增加行程","增加夾持力","提高對夾持物的適應性","增加驅動器數量"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},
@@ -2964,7 +2964,7 @@ let question=[
 	{
 		"question": "揳形機構常用於夾爪設計，以下何者不是其目的? [題本p33-366]",
 		"questionimage": null,
-		"option": ["放大行程","放大行程","改變作動方向","減少零件數"],
+		"option": ["放大行程","放大力量","改變作動方向","減少零件數"],
 		"optionend": "。",
 		"answer": 0,
 		"explain": "",
@@ -3120,7 +3120,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "如圖為某公司的兩指電動夾具示意圖與夾持力公式，若滿足夾取物不掉落之條件為2μF>W，其中夾具與工作物間的摩擦係數μ=0.2 以及工作物重量W=10kg，假設安全係數Sc為4，試問應當選擇多少夾持力之夾爪? [題本p36-384]",
-		"questionimage": "image_image/q036385.jpg",
+		"questionimage": "image_image/q036384.jpg",
 		"option": ["6.25","61.25","100","980"],
 		"optionend": "N。",
 		"answer": 3,
@@ -3203,7 +3203,7 @@ let question=[
 		"questionimage": null,
 		"option": ["黏著式","機械式","真空吸盤式","磁力式"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 2,
 		"explain": "",
 		"ps": ""
 	},{
@@ -3281,7 +3281,7 @@ let question=[
 	},{
 		"question": "下列何者為液壓系統夾爪優點? [題本p38-404]",
 		"questionimage": null,
-		"option": [,"驅動過程平順","噪音大","動力大","速度快"],
+		"option": ["驅動過程平順","噪音大","動力大","速度快"],
 		"optionend": "。",
 		"answer": 0,
 		"explain": "",
@@ -3467,7 +3467,7 @@ let question=[
 		"questionimage": null,
 		"option": ["壓電石英感測器","壓電陶瓷感測器","壓電有機感測器","壓電無機感測器"],
 		"optionend": "。",
-		"answer": 0,
+		"answer": 1,
 		"explain": "",
 		"ps": ""
 	},{
@@ -3664,7 +3664,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "電動夾爪使用齒輪與齒條使夾爪開合，如圖為上下齒條與中間的齒輪示意圖上齒條做直線運動並使齒輪在下齒條上轉動當上齒條往右邊移動時，請問下齒條與齒輪運動方向為何? [題本p41-452]",
-		"questionimage": "image_image/p041452.jpg",
+		"questionimage": "image_image/q041452.jpg",
 		"option": ["右移動，右移動","左移動，右移動","右移動，左移動","左移動、左移動"],
 		"optionend": "。",
 		"answer": 1,
@@ -3696,7 +3696,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "如圖為最有可能是哪一種機構類型的夾爪? [題本p42-456]",
-		"questionimage": "image_image/p041456.jpg",
+		"questionimage": "image_image/q042456.jpg",
 		"option": ["支點型","平行型","同心型","以上皆非"],
 		"optionend": "。",
 		"answer": 0,
@@ -3720,7 +3720,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "如圖兩指夾具為例，F為夾持力，W為物體重量，μ為夾指與物體間的摩擦係數，假設μ=0.1，安全係數為4，請問夾持力至少要物體重量的幾倍以上? [題本p42-459]",
-		"questionimage": null,
+		"questionimage": "image_image/q042459.jpg",
 		"option": ["5","10","15","20"],
 		"optionend": "。",
 		"answer": 3,
@@ -3923,7 +3923,7 @@ let question=[
 		"questionimage": null,
 		"option": ["當人員進入操作中範圍時，確認裝置開啟，作業即所握持之物件","當人員進入操作中範圍時安全裝置關閉，作業繼續運作","使作業分成多階段的停止功能","必須同時觸動兩個或兩個以上的安全防護裝置才能停止運作"],
 		"optionend": "。",
-		"answer": 1,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
@@ -4059,7 +4059,7 @@ let question=[
 		"questionimage": null,
 		"option": ["1、2、3","4、5、6","1、4","所有的軸"],
 		"optionend": "。",
-		"answer": 3,
+		"answer": 0,
 		"explain": "",
 		"ps": ""
 	},{
