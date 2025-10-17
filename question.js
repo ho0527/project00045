@@ -362,7 +362,7 @@ let question=[
 	},{
 		"question": "以下有關輪式機器人，何者正確? [題本p8-46]",
 		"questionimage": null,
-		"option": ["可採用兩獨立驅動輪的結構","可採用單輪驅動及轉向之機構","可採用三權向輪之機構","以上皆是"],
+		"option": ["可採用兩獨立驅動輪的結構","可採用單輪驅動及轉向之機構","可採用三全向輪之機構","以上皆是"],
 		"optionend": "。",
 		"answer": 3,
 		"explain": "",
@@ -622,7 +622,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "如圖(a)為某公司垂直型機械手臂之本體外型與動作範圍俯視圖，圖(b)為其機械手臂之本體規格，則在圖(a)中可看出圖(b)中的哪一軸動作範圍? [題本p11-78]",
-		"questionimage": "image_image/q011088.jpg",
+		"questionimage": "image_image/q011078.jpg",
 		"option": ["J1","J2","J5","J6"],
 		"optionend": "。",
 		"answer": 0,
@@ -757,7 +757,7 @@ let question=[
 		"explain": "",
 		"ps": ""
 	},{
-		"question": "欲選擇適當的減速比以使馬達在減速端對付仔的加速性最大化，應考量馬達轉子與負載之間的 [題本p13-95]",
+		"question": "欲選擇適當的減速比以使馬達在減速端對負載的加速性最大化，應考量馬達轉子與負載之間的 [題本p13-95]",
 		"questionimage": null,
 		"option": ["阻尼比","功率比","轉速比","慣量比"],
 		"optionend": "。",
@@ -1974,7 +1974,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "考慮一個單位回授系統如下圖，其中G(s)=1/(s(s+1)(s+2))。若想要使閉迴路系統具有臨界阻尼(critical damping)，則比例增益K應設為多少? [題本p23-247]",
-		"questionimage": "q023247.jpg",
+		"questionimage": "image_image/q023247.jpg",
 		"option": ["2.431","9.102","0.385","1.023"],
 		"optionend": "。",
 		"answer": 2,
@@ -1982,7 +1982,7 @@ let question=[
 		"ps": ""
 	},{
 		"question": "考慮一個單位回授系統如下圖，其中G(s)=(s+5)/(s(s+1)(s+2))，C(s)=(k(s+2))/(s+p)。若想要系統根軌跡在s平面上通過(-1,j4)，則控制器中的參數p的值設為? [題本p24-248]",
-		"questionimage": "q024248",
+		"questionimage": "image_image/q024248",
 		"option": ["7.66","2.33","9.10","5.34"],
 		"optionend": "。",
 		"answer": 0,
