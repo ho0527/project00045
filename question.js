@@ -2103,7 +2103,7 @@ let question=[
 	},{
 		"question": "一軌跡方程θ(t)=a₁t³+a₂t²+a₃t+a₄，由θ₀=10°轉至θ1=70°，θ₀與θ₁處的轉速為零，轉動過程為3秒，下列方程式何者為非? [題本p25-263]",
 		"questionimage": null,
-		"option": ["a₁=-10","a₂","a₃=0","a₄=10"],
+		"option": ["a₁=-10","a₂=20","a₃=0","a₄=10"],
 		"optionend": "。",
 		"answer": 0,
 		"explain": "",
